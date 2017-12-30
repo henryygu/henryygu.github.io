@@ -2,7 +2,8 @@
 title: "Cribnotes for Principles of Health Informatics"
 excerpt: "Principles of Health Informatics UCL CHMEGH23"
 header:
-  teaser: ""
+  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 categories:
   - UCL
 tags:
