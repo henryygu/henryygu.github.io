@@ -2,43 +2,17 @@
 title: "Cribnotes for Principles of Health Informatics"
 excerpt: "Principles of Health Informatics UCL CHMEGH23"
 header:
-  teaser: "http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"
+  teaser: ""
+categories:
+  - UCL
 tags:
   - UCL
   - Health Informatics
   - Notes
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "gear"
 ---
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-- [Webinar!](#webinar)
-	- [Controlled clinical terminologies](#controlled-clinical-terminologies)
-		- [ICD-10](#icd-10)
-		- [SNOMED CT](#snomed-ct)
-		- [National Approaches to IT implementation](#national-approaches-to-it-implementation)
-			- [National Programme for IT](#national-programme-for-it)
-			- [HITECH](#hitech)
-				- [Meaningful use](#meaningful-use)
-				- [Result](#result)
-				- [HITECH Requirements](#hitech-requirements)
-					- [Core Requirements:](#core-requirements)
-					- [Menu Requirements:](#menu-requirements)
-	- [Ontologies](#ontologies)
-					- [Entity Relationship Models](#entity-relationship-models)
-					- [Decision analysis](#decision-analysis)
-				- [Diagnostic tests](#diagnostic-tests)
-	- [Procurement processes](#procurement-processes)
-		- [Personal health records & EHR](#personal-health-records-ehr)
-			- [HealthSpace](#healthspace)
-			- [Key theme 1- Health records](#key-theme-1-health-records)
-	- [Telehealth](#telehealth)
-		- [Whole System Demonstrator](#whole-system-demonstrator)
-		- [Florence or “flo”](#florence-or-flo)
-	- [Cost effectiveness](#cost-effectiveness)
-		- [Choose & Book/eRS](#choose-bookers)
-- [Dataflow Diagrams](#dataflow-diagrams)
-- [Record Linkages](#record-linkages)
-
-<!-- /TOC -->
 
 # Webinar!
 Description logic in snomed? Not sure if this makes any sense but it’s all I can find
