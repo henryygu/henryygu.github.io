@@ -280,14 +280,24 @@ Calculate probability of each outcome (square underneath name)
 
 
 Then calculate the “expected utility” which is the utility of an outcome multiplied by its probability (circle)
-(insert images)
+<figure>
+ <a href="/assets/images/decision1.jpg"><img src="/assets/images/decision2.jpg"></a>
+</figure>
 Add up all the circles to get the “expected utility for each decision option
-(insert images)
-
+<figure>
+ <a href="/assets/images/decision1.jpg"><img src="/assets/images/decision3.jpg"></a>
+</figure>
 Combined
-(insert images)
+<figure>
+ <a href="/assets/images/decision1.jpg"><img src="/assets/images/decision4.jpg"></a>
+</figure>
+<figure>
+ <a href="/assets/images/decision1.jpg"><img src="/assets/images/decision5.jpg"></a>
+</figure>
 ==>
-(insert images)
+<figure>
+ <a href="/assets/images/decision1.jpg"><img src="/assets/images/decision6.jpg"></a>
+</figure>
 
 1. Uses:
   - Basically decisions of any kind
