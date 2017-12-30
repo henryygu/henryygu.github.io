@@ -1,6 +1,6 @@
 ---
-title: "Markup: Another Post with Images"
-excerpt: "Examples and code for displaying images in posts."
+title: "Cribnotes for Principles of Health Informatics"
+excerpt: "Principles of Health Informatics UCL CHMEGH23"
 header:
   teaser: "http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"
 tags:
@@ -274,7 +274,11 @@ Attributes are unique distinguishing characteristics of the entity. Eg patient -
 
 Decision trees: Associate each outcome with a value or utility (dotted square)
 Calculate probability of each outcome (square underneath name)
-(insert images)
+<figure>
+ <a href="/assets/images/decision1.jpg"><img src="/assets/images/decision1.jpg"></a>
+</figure>
+
+
 Then calculate the “expected utility” which is the utility of an outcome multiplied by its probability (circle)
 (insert images)
 Add up all the circles to get the “expected utility for each decision option
