@@ -18,7 +18,7 @@ toc_icon: "gear"
 Greek Plate
 Starter: tzatziki with pitta
 Main: Moussaka, stuffed peppers, chicken gyros, lamb, baked feta
-Dessert: https://media-cdn.tripadvisor.com/media/photo-s/14/8a/ba/74/photo2jpg.jpg
+Dessert: ![alt text](https://media-cdn.tripadvisor.com/media/photo-s/14/8a/ba/74/photo2jpg.jpg "Logo Title Text 1")
 Citrus based dessert portokalopita
 
 # What Happened
